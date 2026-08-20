@@ -75,6 +75,8 @@ customer-review-sentiment-analysis/
 │   ├── logistic_regression.pkl
 │   ├── final_model_comparison.csv
 │   └── distilbert_development/
+│           └──https://drive.google.com/drive/folders/1DPLIFucKCEx_jZnCNhxEaJlKhUAgl_WG?usp=sharing
+│              Distilbert_development folder saved as a zip file due to its large model size.   
 │
 ├── app.py
 ├── requirements.txt

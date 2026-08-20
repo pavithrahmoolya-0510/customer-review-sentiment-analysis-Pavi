@@ -76,10 +76,22 @@ customer-review-sentiment-analysis/
 │   ├── final_model_comparison.csv
 │   └── distilbert_development/
 │           └──https://drive.google.com/drive/folders/1DPLIFucKCEx_jZnCNhxEaJlKhUAgl_WG?usp=sharing
-│              Distilbert_development folder saved as a zip file due to its large model size.   
+│              Distilbert_development folder saved as a zip file due to its large model size. 
+│               OR
+│              https://huggingface.co/PavithraMoolya/customer-review-sentiment-distilbert
+│              Distilbert_development folder is hosted separately on Hugging Face due to its 
+│               large model size.
 │
 ├── app.py
 ├── requirements.txt
 ├── README.md
 ├── report.docx
 └── .gitignore
+
+## DistilBERT Model
+
+The trained DistilBERT model is hosted on Hugging Face because the
+model weights are approximately 255 MB.
+
+Model repository:
+https://huggingface.co/PavithraMoolya/customer-review-sentiment-distilbert
